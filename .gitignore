@@ -1,0 +1,25 @@
+# Output di build
+build/
+dist/
+
+# Cartelle private di NetBeans (specifiche dell'utente)
+nbproject/private/
+
+# File temporanei di NetBeans
+nbproject/Makefile-*.mk
+
+# File compilati
+*.class
+*.jar
+*.war
+*.ear
+
+# File temporanei o di log
+*.log
+*.tmp
+*.bak
+*.swp
+
+# File di sistema
+.DS_Store
+Thumbs.db
